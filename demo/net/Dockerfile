@@ -1,8 +1,6 @@
-FROM ubuntu
+FROM centos:7
 MAINTAINER LiangGzone "lianggzone@163.com"
-RUN apt-get update && \
-    apt-get install -y ping && \
-    apt-get install -y nginx && \
-    apt-get install -y curl
+RUN yum install -y iputils && \
+    yum install net-tools.x86_64
 EXPOSE 80
 CMD /bin/bash

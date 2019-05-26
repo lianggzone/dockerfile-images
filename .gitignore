@@ -1,6 +1,4 @@
 target/
-
-### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
@@ -8,4 +6,3 @@ target/
 .idea/dockerfile-images.iml
 .idea/inspectionProfiles/
 .idea/modules.xml
-base/webssh/

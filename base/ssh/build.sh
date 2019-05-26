@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-docker build -t="lianggzone/centos" .
+docker build -t="lianggzone/ssh" .
