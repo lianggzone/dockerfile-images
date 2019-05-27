@@ -15,7 +15,9 @@
 - [Dockerfile 安装 OpenJDK 11 Slim](https://github.com/lianggzone/dockerfile-images/tree/master/java/openjdk11_slim)
 
 ## Zookeeper
-- [Dockerfile 安装 Zookeeper 单机版](https://github.com/lianggzone/dockerfile-images/tree/master/zookeeper/zookeeper_one)
-- [Dockerfile 安装 Zookeeper 集群版](https://github.com/lianggzone/dockerfile-images/tree/master/zookeeper/zookeeper_cluster)
+- [Dockerfile 安装 Zookeeper 单机版](https://github.com/lianggzone/dockerfile-images/tree/master/server/zookeeper/zookeeper_one)
+- [Dockerfile 安装 Zookeeper 集群版](https://github.com/lianggzone/dockerfile-images/tree/master/server/zookeeper/zookeeper_cluster)
 
 ## RocketMQ
+- [Dockerfile 安装 RocketMQ 单机版](https://github.com/lianggzone/dockerfile-images/tree/master/server/rocketmq)
+- [Dockerfile 安装 RocketMQ 集群版](https://github.com/lianggzone/dockerfile-images/tree/master/server/rocketmq)
