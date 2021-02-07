@@ -21,3 +21,6 @@
 ## RocketMQ
 - [Dockerfile 安装 RocketMQ 单机版](https://github.com/lianggzone/dockerfile-images/tree/master/server/rocketmq)
 - [Dockerfile 安装 RocketMQ 集群版](https://github.com/lianggzone/dockerfile-images/tree/master/server/rocketmq)
+
+## Kafka
+- [Dockerfile 安装 Kafka 单机版](https://github.com/lianggzone/dockerfile-images/tree/master/server/kafka)
